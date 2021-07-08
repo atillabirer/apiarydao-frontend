@@ -25,6 +25,11 @@
         "internalType": "uint256",
         "name": "_startBlock",
         "type": "uint256"
+      },
+      {
+        "internalType": "contract DAOPoolShares",
+        "name": "_dao",
+        "type": "address"
       }
     ],
     "stateMutability": "nonpayable",

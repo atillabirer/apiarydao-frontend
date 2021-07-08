@@ -4,10 +4,19 @@ const tokens = {
     projectLink: 'https://www.binance.com/',
   },
   cake: {
-    symbol: 'CAKE',
+    symbol: 'HNYC',
     address: {
       56: '0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82',
-      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+      97: '0x173617a1776aCaBd51B99917C02B68373164c399',
+    },
+    decimals: 18,
+    projectLink: 'https://pancakeswap.finance/',
+  },
+  apyd: {
+    symbol: 'APYD',
+    address: {
+      56: '',
+      97: '0x7bF06a5fE4F79b73EFd9f068C2C1dFE2B97bBc3b',
     },
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
@@ -610,7 +619,7 @@ const tokens = {
     symbol: 'SYRUP',
     address: {
       56: '0x009cF7bC57584b7998236eff51b98A168DceA9B0',
-      97: '0xfE1e507CeB712BDe086f3579d2c03248b2dB77f9',
+      97: '0xb44627698f6aB10C7FC9a11ABBf8a8d1A33d7739',
     },
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
